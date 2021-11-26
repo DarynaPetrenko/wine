@@ -1,0 +1,296 @@
+@media screen and (max-width: 1200px) {
+	.contact-table{
+		width: 900px
+	}
+	.table{
+		width: 900px;
+	}
+	.wine{
+		width: 900px;
+		height: 750px;
+	}
+	.hr-new{
+		width: 900px;
+	}
+	.new{
+		display: block;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		
+}
+.hr_section2{
+	margin-left: auto;
+	margin-right: auto;
+}
+.slider{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+.march{
+	margin-left: auto;
+	margin-right: auto;
+}
+.registration-for-tasting{
+	width:800px;
+}
+.grape{
+	width: 230px;
+	height: 230px;
+	position: relative;
+	top: 150px; left: 35px;
+}
+.barre{
+	width: 230px;
+	height: 170px;
+	position: relative;
+	top: 190px; right: 50px;
+}
+.h2{
+	width: 350px;
+}
+.reg-form, .boutique{
+	width: 450px;
+}
+.registr{
+	padding: 15px 165px;
+}
+}
+
+
+
+
+
+@media screen and (max-width: 992px) {
+	.contact-table{
+		width: 700px
+	}
+	.table{
+		width: 700px;
+	}
+	.description_wine{
+		width: 500px;
+	}
+	.wine{
+		width: 700px;
+		height: 600px;
+	}
+	.hr-new{
+		width: 700px;
+	}
+	.registration-for-tasting{
+	width:500px;
+}
+	.h2{
+		width: 200px;
+		font-size: 20px;
+		position: relative;
+		bottom: 15px;
+	}
+	.description_wine{
+		font-size: 10px;
+	}
+	.grape{
+		width: 150px;
+		height: 150px;
+		position: relative;
+		top: 100px; left: 130px;
+	}
+	.barre{
+		width: 150px;
+		height: 100px;
+		position: relative;
+		top: 130px; right: 130px;
+	}
+	.reg{
+		font-size: 10px;
+		width: 250px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.reg-form{
+	width: 270px;
+	}
+	.registr{
+		font-size: 10px;
+		padding: 8px 100px;
+	}
+	.input{
+		width: 120px;
+	}
+	.boutique{
+		width: 270px;
+	}
+	}
+		
+
+
+
+
+
+@media screen and (max-width: 768px) {
+	.contact-table{
+		width: 500px
+	}
+	.table{
+		width: 500px;
+	}
+	.wine{
+		width: 500px;
+		height: 630px;
+	}
+	.description_wine{
+		font-size: 10px;
+		width: 330px;
+	}
+	.hr_section1{
+		width: 100px;
+	}
+	.hr-new{
+		width: 500px;
+	}
+	.slider{
+	height: 700px;
+	width: 500px;
+}
+.registration-for-tasting{
+	width:300px;
+}
+	.h2{
+	width: 150px;
+	font-size: 15px;
+	position: relative;
+	bottom: 10px;
+	}
+	.grape{
+		width: 130px;
+		height: 130px;
+		position: relative;
+		top: 70px; left: 130px;
+	}
+	.barre{
+		width: 130px;
+		height: 100px;
+		position: relative;
+		top: 90px; right: 130px;
+	}
+	.hr_section1{
+		width: 50px;
+	}
+	.reg-form{
+	width: 220px;
+	}
+	.registr{
+		font-size: 10px;
+		padding: 8px 70px;
+	}
+	.input{
+		width: 90px;
+	}
+	.boutique{
+		width: 220px;
+	}
+
+}
+
+
+
+
+@media screen and (max-width: 576px) {
+	.contact-table{
+		width: 300px;
+		font-size: 10px;
+	}
+	.table{
+		width: 300px;
+		height: 20px;
+	}
+	.a-table{
+		font-size: 10px;
+	}
+	.btn-header{
+		margin-right: 20px;
+		font-size: 10px;
+		padding: 10px 10px;
+	}
+	.wine{
+		width: 300px;
+		height: 550px;
+	}
+	.description_wine{
+		font-size: 8px;
+		width: 250px;
+	}
+	.glass-of-wine{
+		width: 100px;
+		height: 100px;
+	}
+	.hr-new{
+		width: 270px;
+	}
+	.slider{
+		width: 270px;
+		height: 370px;
+	}
+	.learn-more{
+		padding: 10px 10px;
+		font-size: 10px;
+	}
+	.collections-wine{
+		width: 300px;
+	}
+	.col{
+		font-size: 12px;
+	}
+	.march{
+		font-size: 20px;
+		width: 150px;
+	}
+	.hr_section2{
+		width: 50px;
+	}
+	.lorem{
+		width: 200px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.table2{
+		width: 280px;
+	}
+	.year, .year2{
+		font-size: 10px;
+	}
+	.colli{
+		font-size: 15px;
+	}
+	.bottle{
+		font-size: 10px;
+	}
+	.registration-for-tasting{
+	width:250px;
+	height: 500px;
+	}
+	.h2{
+	width: 130px;
+	font-size: 12px;
+	}
+	.grape{
+		width: 80px;
+		height: 80px;
+		position: relative;
+		top: 40px; left: 130px;
+	}
+	.barre{
+		width: 90px;
+		height: 60px;
+		position: relative;
+		top: 540px; right: 90px;
+	}
+	.reg{
+		width: 150px;
+	}
+	.p-table{
+		font-size: 8px;
+	}
+}
